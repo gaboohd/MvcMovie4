@@ -1,0 +1,38 @@
+﻿
+/* dark-mode.css */
+
+/* Cambia el color de fondo del cuerpo de la página a un tono oscuro */
+body {
+    background-color: #121212; /* Color de fondo oscuro */
+    color: #ffffff; /* Color de texto claro */
+}
+
+/* Cambia el color de fondo de la barra de navegación */
+.navbar {
+    background-color: #1f1f1f; /* Color de fondo más oscuro para la barra de navegación */
+    color: #ffffff; /* Color de texto claro para la barra de navegación */
+}
+
+    /* Cambia el color de los enlaces de la barra de navegación */
+    .navbar a {
+        color: #ffffff; /* Color de texto claro para los enlaces */
+    }
+
+/* Cambia el color de fondo de los botones */
+.btn {
+    background-color: #333333; /* Color de fondo oscuro para los botones */
+    color: #ffffff; /* Color de texto claro para los botones */
+}
+
+/* Cambia el color de fondo y el texto de los formularios y otros elementos según sea necesario */
+input, textarea, select {
+    background-color: #333333; /* Color de fondo oscuro para los campos de formulario */
+    color: #ffffff; /* Color de texto claro para los campos de formulario */
+}
+
+/* Otros estilos personalizados para el modo oscuro */
+.container {
+    background-color: #1a1a1a; /* Color de fondo oscuro para los contenedores */
+    color: #ffffff; /* Color de texto claro para los contenedores */
+}
+
